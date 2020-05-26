@@ -4,4 +4,4 @@ Example of management of tabular data in practice. Prediction model for ASHRAE c
 
 - EDA and visual representation of data to extract insights; study the realations between our variables and detect outliers.
 - Examples of some Feature Engineering methods like binning, rolling window among others 
-- Forecasting model using some of the state of the art libraries and machine learning algorithms like gradient boosting and       random tree forest.
+- Forecasting model using some of the state of the art libraries and machine learning algorithms like gradient boosting and       random tree forest
